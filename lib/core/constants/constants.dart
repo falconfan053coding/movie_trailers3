@@ -8,6 +8,6 @@ abstract final class Constants {
  // static const fifthVideosLink = 'dailyshow';
  // static const sixthVideosLink = 'weekly';
 
-  static const username = 'myfootballapis123';
-  static const password = 'P40KXkOA7t1OD3nFkhhoFA';
+  static const username = '**********************';
+  static const password = '**********************';
 }
